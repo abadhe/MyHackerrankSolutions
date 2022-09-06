@@ -1,6 +1,6 @@
 # MyHackerrankSolutions
 My OA hackerrank solutions
 
-GoodArray - GoldmanSachs
-HowManySentences - GoldmanSachs
+* GoodArray - GoldmanSachs
+* HowManySentences - GoldmanSachs
 
